@@ -1,5 +1,6 @@
 ## I'm Manoj Prabhakaran
-[hgjhgh](www.https://google.com)
+[Visit OpenAI](https://www.openai.com)
+
 
 
 Here are some ideas to get you started:
