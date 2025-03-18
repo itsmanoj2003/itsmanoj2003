@@ -13,4 +13,4 @@
 
 |Frontend|Backend|
 |--------|-------|
-| HTML   |MySQL  |
+|  HTML  | MySQL |
