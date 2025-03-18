@@ -7,4 +7,4 @@
 
 *Email : manojprabhakaran524@gmail.com*
 
-![My Linkedin](https://www.flaticon.com/free-icon/linkedin_3536569?term=linkedin&page=1&position=2&origin=tag&related_id=3536569)
+[My Linkedin](https://www.linkedin.com/in/manoj-prabhakaran-p-584539258/)
