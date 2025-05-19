@@ -1,5 +1,7 @@
 # Hi, I'm P. Manoj Prabhakaran 👋
-CSE Student | Web Developer
+
+**Web Developer | CSE Student**
+
 Living in Kovilpatti.
 
 
