@@ -1,16 +1,32 @@
-## I'm Manoj Prabhakaran
-***Web Developer | CSE Student***
+# Hi, I'm P. Manoj Prabhakaran 👋
 
+Living in Kovilpatti.
 
-*Kovilpatti*
+---
 
+### Skills
+- HTML, CSS, JavaScript  
+- React, Node.js, Express  
+- MongoDB, MySQL  
+- Java
 
-*Email : manojprabhakaran524@gmail.com*
+---
 
-[My Linkedin](https://www.linkedin.com/in/manoj-prabhakaran-p-584539258/)
+### About Me
+- Passionate about designing and building web applications  
+- Hobbies: Listening to melody songs 🎵 and video editing 🎬
 
-## Skills
+---
 
-|Frontend|Backend|
-|--------|-------|
-|  HTML  | MySQL |
+### Real-time Projects
+- [3A Crackers](https://3-a-crackers.vercel.app/)  
+- [EcoMart](https://ecomartshopping.vercel.app/)
+
+---
+
+### Portfolio
+Check out my portfolio website here: [My Portfolio](https://manoj-prabhakaran-protfolio.vercel.app/)
+
+---
+
+Thanks for stopping by! 😊
