@@ -4,11 +4,11 @@ Living in Kovilpatti.
 
 ---
 
-### Skills
-- HTML, CSS, JavaScript  
-- React, Node.js, Express  
-- MongoDB, MySQL  
-- Java
+| Frontend      | Backend     | Databases  | Other Languages |
+|---------------|-------------|------------|-----------------|
+| HTML          | Node.js     | MongoDB    | Java            |
+| CSS           | Express     | MySQL      |                 |
+| JavaScript    | React       |            |                 |
 
 ---
 
