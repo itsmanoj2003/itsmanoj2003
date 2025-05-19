@@ -5,11 +5,13 @@
 Living in Kovilpatti.
 
 
-| 🖥️ Frontend           | ⚙️ Backend             | 🗄️ Databases         | 📝 Other Languages |
-|-----------------------|-----------------------|----------------------|--------------------|
-| 🌐 HTML               | ⚡ Node.js             | 🍃 MongoDB           | ☕ Java             |
-| 🎨 CSS                | 🛠️ Express            | 🐬 MySQL             |                    |
-| 💻 JavaScript         | ⚛️ React              |                      |                    |
+| 🖥️ Frontend           | ⚙️ Backend         | 🗄️ Databases    | 📝 Other Languages |
+|-----------------------|--------------------|-----------------|--------------------|
+| 🌐 HTML               | ⚡ Node.js          | 🍃 MongoDB      | ☕ Java             |
+| 🎨 CSS                | 🛠️ Express         | 🐬 MySQL        |                    |
+| 💻 JavaScript         |                    |                 |                    |
+| ⚛️ React              |                    |                 |                    |
+
 
 
 
