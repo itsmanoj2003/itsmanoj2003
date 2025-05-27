@@ -4,6 +4,8 @@
 
 Living in Kovilpatti.
 
+### Portfolio
+Check out my portfolio website here: [My Portfolio](https://manoj-prabhakaran-protfolio.vercel.app/)
 
 | 🖥️ Frontend           | ⚙️ Backend         | 🗄️ Databases    | 📝 Other Languages |
 |-----------------------|--------------------|-----------------|--------------------|
@@ -23,10 +25,6 @@ Living in Kovilpatti.
 ### Real-time Projects
 - [3A Crackers](https://3-a-crackers.vercel.app/)  
 - [EcoMart](https://ecomartshopping.vercel.app/)
-
-
-### Portfolio
-Check out my portfolio website here: [My Portfolio](https://manoj-prabhakaran-protfolio.vercel.app/)
 
 
 Thank you for your time. 😊
